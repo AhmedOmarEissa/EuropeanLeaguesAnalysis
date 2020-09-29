@@ -12,7 +12,7 @@ Using [European Soccer Database](https://www.kaggle.com/hugomathien/soccer) on k
 
 To answer this question, I've used the player rating as an indication of the performance, tracking the change % in player rating against his own average rating across different ages, then plot the average change % for all the players in the dataset.
 
-## Key findings 
+## Key finding
 Players are on top of their game between 24 - 32 years with 2.5% increase in their rating vs their own average. 
 
 ## What next? 
@@ -20,4 +20,5 @@ If I have more time on the future, I like to create a tool where user can add th
 
 ## Links: 
 [Kaggle notebook](https://www.kaggle.com/ahmedomareissa/players-rating-change-with-age)
+
 [NB Viwere](https://nbviewer.jupyter.org/github/AhmedOmarEissa/EuropeanLeaguesAnalysis/blob/master/Players%20rating%20change%20with%20age.ipynb)
